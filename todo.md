@@ -119,6 +119,6 @@
 - NationOS = The constitution for their new home
 
 ### Final Deployment
-- [ ] Push Exodus messaging updates to GitHub
-- [ ] Create final checkpoint
+- [x] Push Exodus messaging updates to GitHub
+- [x] Create final checkpoint
 - [ ] Guide Bryan for re-deployment at home
