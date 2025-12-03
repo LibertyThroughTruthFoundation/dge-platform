@@ -2,7 +2,7 @@ import { Link } from "wouter";
 import { trpc } from "@/lib/trpc";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Loader2, Coins, BookOpen, GraduationCap, BookMarked, TrendingUp } from "lucide-react";
+import { Loader2, Coins, BookOpen, GraduationCap, BookMarked, TrendingUp, ShoppingBag } from "lucide-react";
 
 export default function Dashboard() {
   const { data: user } = trpc.auth.me.useQuery();
@@ -131,6 +131,28 @@ export default function Dashboard() {
                   </p>
                   <p className="text-sm text-amber-600 dark:text-amber-400 font-medium">
                     View scholars →
+                  </p>
+                </div>
+              </div>
+            </Card>
+          </Link>
+
+          {/* GodManMarkets */}
+          <Link href="/godmanmarkets">
+            <Card className="p-6 hover:shadow-lg transition-all cursor-pointer group h-full">
+              <div className="flex items-start gap-4">
+                <div className="p-3 bg-indigo-100 dark:bg-indigo-900/30 rounded-lg group-hover:bg-indigo-200 dark:group-hover:bg-indigo-900/50 transition-colors">
+                  <ShoppingBag className="w-8 h-8 text-indigo-600 dark:text-indigo-400" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-xl font-semibold mb-2 group-hover:text-primary transition-colors">
+                    GodManMarkets
+                  </h3>
+                  <p className="text-muted-foreground mb-3">
+                    Covenant commerce - books and resources
+                  </p>
+                  <p className="text-sm text-indigo-600 dark:text-indigo-400 font-medium">
+                    Browse marketplace →
                   </p>
                 </div>
               </div>

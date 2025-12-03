@@ -65,11 +65,11 @@ I'm learning to hold the vision with open hands. To trust that the Architect kno
 
 ## Footnotes
 
-[^1]: This principle reflects what theologians call "contextualization"—the recognition that while divine truth is absolute, its faithful application requires wisdom in varying circumstances. See D.A. Carson, *The Gagging of God* (Zondervan, 1996), 537-545; Timothy Keller, *Center Church* (Zondervan, 2012), 17-25.
+[^1]: This principle reflects what theologians call "contextualization"—the recognition that while divine truth is absolute, its faithful application requires wisdom in varying circumstances. See D.A. Carson, [*The Gagging of God*](/godmanmarkets#carson-gagging-of-god) (Zondervan, 1996), 537-545; Timothy Keller, [*Center Church*](/godmanmarkets#keller-center-church) (Zondervan, 2012), 17-25.
 
-[^2]: The Davidic temple narrative (2 Samuel 7; 1 Chronicles 22-29) has long been recognized as a paradigm of generational stewardship. David receives vision but not completion; he prepares materials and plans for the next generation. See G.K. Beale, *The Temple and the Church's Mission* (IVP Academic, 2004), 66-80; John Goldingay, *Old Testament Theology*, Vol. 2 (IVP Academic, 2006), 480-495.
+[^2]: The Davidic temple narrative (2 Samuel 7; 1 Chronicles 22-29) has long been recognized as a paradigm of generational stewardship. David receives vision but not completion; he prepares materials and plans for the next generation. See G.K. Beale, [*The Temple and the Church's Mission*](/godmanmarkets#beale-temple-mission) (IVP Academic, 2004), 66-80; John Goldingay, [*Old Testament Theology*, Vol. 2](/godmanmarkets#goldingay-ot-theology-2) (IVP Academic, 2006), 480-495.
 
-[^3]: The tension between human control and divine trust is a perennial theme in Christian spirituality. As Jerry Bridges observes, "The sovereignty of God is the one impregnable rock to which the suffering human heart must cling." See Bridges, *Trusting God* (NavPress, 1988), 18; Dallas Willard, *The Divine Conspiracy* (HarperOne, 1998), 61-75.`,
+[^3]: The tension between human control and divine trust is a perennial theme in Christian spirituality. As Jerry Bridges observes, "The sovereignty of God is the one impregnable rock to which the suffering human heart must cling." See Bridges, [*Trusting God*](/godmanmarkets#bridges-trusting-god) (NavPress, 1988), 18; Dallas Willard, [*The Divine Conspiracy*](/godmanmarkets#willard-divine-conspiracy) (HarperOne, 1998), 61-75.`,
       tokensEarned: 10,
     },
     {
@@ -136,11 +136,11 @@ You can work hard and rest deeply at the same time. In fact, that's the only sus
 
 ## Footnotes
 
-[^1]: Brueggemann argues that anxiety is endemic to what he calls "Pharaoh's economy"—a system built on the illusion that human effort alone secures outcomes. Sabbath rest is resistance to this illusion. See Walter Brueggemann, *Sabbath as Resistance* (Westminster John Knox, 2014), 1-28.
+[^1]: Brueggemann argues that anxiety is endemic to what he calls "Pharaoh's economy"—a system built on the illusion that human effort alone secures outcomes. Sabbath rest is resistance to this illusion. See Walter Brueggemann, [*Sabbath as Resistance*](/godmanmarkets#brueggemann-sabbath-resistance) (Westminster John Knox, 2014), 1-28.
 
-[^2]: Biblical rest is never mere inactivity. As Heschel writes, "The Sabbath is not for the sake of the weekdays; the weekdays are for the sake of Sabbath." Rest is the telos of work, requiring active trust. See Abraham Joshua Heschel, *The Sabbath* (FSG, 1951), 14; Marva Dawn, *Keeping the Sabbath Wholly* (Eerdmans, 1989), 45-62.
+[^2]: Biblical rest is never mere inactivity. As Heschel writes, "The Sabbath is not for the sake of the weekdays; the weekdays are for the sake of Sabbath." Rest is the telos of work, requiring active trust. See Abraham Joshua Heschel, [*The Sabbath*](/godmanmarkets#heschel-sabbath) (FSG, 1951), 14; Marva Dawn, [*Keeping the Sabbath Wholly*](/godmanmarkets#dawn-keeping-sabbath) (Eerdmans, 1989), 45-62.
 
-[^3]: The biblical vision integrates work and rest as complementary rather than competing values. As Keller notes, "We need rest and work both—to honor God with our hands and to honor him with our trust." See Timothy Keller, *Every Good Endeavor* (Penguin, 2012), 229-240.`,
+[^3]: The biblical vision integrates work and rest as complementary rather than competing values. As Keller notes, "We need rest and work both—to honor God with our hands and to honor him with our trust." See Timothy Keller, [*Every Good Endeavor*](/godmanmarkets#keller-every-good-endeavor) (Penguin, 2012), 229-240.`,
       tokensEarned: 10,
     },
     {
@@ -236,9 +236,9 @@ And suddenly, the work became lighter. Because I wasn't building four things—I
 
 ## Footnotes
 
-[^1]: The organism/organization distinction has deep roots in ecclesiology. Howard Snyder argues that "the church is fundamentally an organism, not an organization... a living thing, not a lifeless structure." See Snyder, *The Community of the King* (IVP, 1977), 55-70; Alan Hirsch, *The Forgotten Ways* (Brazos, 2006), 179-200.
+[^1]: The organism/organization distinction has deep roots in ecclesiology. Howard Snyder argues that "the church is fundamentally an organism, not an organization... a living thing, not a lifeless structure." See Snyder, [*The Community of the King*](/godmanmarkets#snyder-community-king) (IVP, 1977), 55-70; Alan Hirsch, [*The Forgotten Ways*](/godmanmarkets#hirsch-forgotten-ways) (Brazos, 2006), 179-200.
 
-[^2]: The Apostle Paul's body metaphor (1 Corinthians 12:12-27) establishes the principle that the church functions as an organism with diverse, interdependent members. Building on this foundation, this framework proposes a four-part structure—Head (vision), Heart (engagement), Hands (commerce), and Immune System (protection)—as a contemporary model for kingdom coordination. While this specific structure is an original application, it reflects the biblical principle of organic unity amid functional diversity. See Edmund Clowney, *The Church* (IVP, 1995), 75-95.`,
+[^2]: The Apostle Paul's body metaphor (1 Corinthians 12:12-27) establishes the principle that the church functions as an organism with diverse, interdependent members. Building on this foundation, this framework proposes a four-part structure—Head (vision), Heart (engagement), Hands (commerce), and Immune System (protection)—as a contemporary model for kingdom coordination. While this specific structure is an original application, it reflects the biblical principle of organic unity amid functional diversity. See Edmund Clowney, [*The Church*](/godmanmarkets#clowney-the-church) (IVP, 1995), 75-95.`,
       tokensEarned: 10,
     },
     {
@@ -323,11 +323,11 @@ Piloting is not a compromise. It's the way the kingdom builds.
 
 ## Footnotes
 
-[^1]: The biblical pattern of faith acting before complete understanding is exemplified in Abraham's journey: "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going" (Hebrews 11:8). Obedience often precedes understanding. See Dallas Willard, *Hearing God* (IVP, 1999), 145-160.
+[^1]: The biblical pattern of faith acting before complete understanding is exemplified in Abraham's journey: "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going" (Hebrews 11:8). Obedience often precedes understanding. See Dallas Willard, [*Hearing God*](/godmanmarkets#willard-hearing-god) (IVP, 1999), 145-160.
 
 [^2]: Following Abraham's example of going out "not knowing where he was going" (Hebrews 11:8), this project embraces what we call "piloting the permanent"—faithful action amid incomplete knowledge. This reflects the biblical principle that God often reveals His will progressively, requiring us to take steps of obedience before we see the full picture.
 
-[^3]: The "already but not yet" framework is central to New Testament eschatology. The kingdom has been inaugurated in Christ but awaits final consummation. This tension between present reality and future hope shapes all Christian life and work. See George Eldon Ladd, *The Presence of the Future* (Eerdmans, 1974), 218-234; N.T. Wright, *Surprised by Hope* (HarperOne, 2008), 18-27.`,
+[^3]: The "already but not yet" framework is central to New Testament eschatology. The kingdom has been inaugurated in Christ but awaits final consummation. This tension between present reality and future hope shapes all Christian life and work. See George Eldon Ladd, [*The Presence of the Future*](/godmanmarkets#ladd-presence-future) (Eerdmans, 1974), 218-234; N.T. Wright, [*Surprised by Hope*](/godmanmarkets#wright-surprised-by-hope) (HarperOne, 2008), 18-27.`,
       tokensEarned: 10,
     },
   ],
