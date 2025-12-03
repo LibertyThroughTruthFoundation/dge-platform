@@ -76,6 +76,33 @@ describe("DGE Platform Tests", () => {
       expect(result.subModules).toHaveLength(4);
     });
 
+    it("should include scholarly footnotes in sub-module content", async () => {
+      const ctx = createAuthContext();
+      const caller = appRouter.createCaller(ctx);
+
+      const result = await caller.module.getSubModule({
+        subModuleId: "fixed-foundation-flexible-form",
+      });
+
+      expect(result).toBeDefined();
+      expect(result.content).toContain("[^1]"); // Footnote reference
+      expect(result.content).toContain("## Footnotes"); // Footnote section
+      expect(result.content).toContain("Carson"); // Scholar citation
+    });
+
+    it("should include 'Building upon' framing for original contributions", async () => {
+      const ctx = createAuthContext();
+      const caller = appRouter.createCaller(ctx);
+
+      const result = await caller.module.getSubModule({
+        subModuleId: "fourfold-kingdom-organism",
+      });
+
+      expect(result).toBeDefined();
+      expect(result.content).toContain("Building on"); // Framing language
+      expect(result.content).toContain("The Apostle Paul's body metaphor"); // Biblical foundation
+    });
+
     it("should return sub-module content", async () => {
       const ctx = createAuthContext();
       const caller = appRouter.createCaller(ctx);
@@ -118,6 +145,30 @@ describe("DGE Platform Tests", () => {
       expect(result[0]).toHaveProperty("term");
       expect(result[0]).toHaveProperty("definition");
       expect(result[0]).toHaveProperty("category");
+    });
+
+    it("should include scholarly citations in lexicon definitions", async () => {
+      const ctx = createAuthContext();
+      const caller = appRouter.createCaller(ctx);
+
+      const result = await caller.lexicon.getAllTerms();
+      const angelLedgers = result.find(t => t.term === "Angel Ledgers");
+
+      expect(angelLedgers).toBeDefined();
+      expect(angelLedgers?.definition).toContain("Drawing on"); // Framing language
+      expect(angelLedgers?.definition).toContain("Nickelsburg"); // Scholar citation
+    });
+
+    it("should include 'Building upon' framing for original lexicon terms", async () => {
+      const ctx = createAuthContext();
+      const caller = appRouter.createCaller(ctx);
+
+      const result = await caller.lexicon.getAllTerms();
+      const covenantEconomics = result.find(t => t.term === "Covenant Economics");
+
+      expect(covenantEconomics).toBeDefined();
+      expect(covenantEconomics?.definition).toContain("biblical covenant principles");
+      expect(covenantEconomics?.definition).toContain("Hahn"); // Scholar citation
     });
 
     it("should return specific term", async () => {

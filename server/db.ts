@@ -256,6 +256,15 @@ export async function seedLexiconTerms(terms: InsertLexiconTerm[]) {
     const existing = await getLexiconTerm(term.term);
     if (!existing) {
       await db.insert(lexiconTerms).values(term);
+    } else {
+      // Update existing term with new definition/category/relatedTerms
+      await db.update(lexiconTerms)
+        .set({
+          definition: term.definition,
+          category: term.category,
+          relatedTerms: term.relatedTerms,
+        })
+        .where(eq(lexiconTerms.term, term.term));
     }
   }
 }

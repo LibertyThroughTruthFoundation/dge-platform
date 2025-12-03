@@ -57,3 +57,29 @@
 - [x] Testing ready
 - [ ] Create checkpoint
 - [ ] Final deployment
+
+## Academic Citation Integration (Claude's Review)
+
+### Module 7 Footnotes
+- [x] Add footnotes to Sub-module 1: Fixed Foundation, Flexible Form
+- [x] Add footnotes to Sub-module 2: Rest as an Act of Authority
+- [x] Add footnotes to Sub-module 3: The Fourfold Kingdom Organism
+- [x] Add footnotes to Sub-module 4: Piloting the Permanent
+- [x] Frame original contributions with "Building upon..." language
+
+### Lexicon Citations
+- [x] Add scholarly support to Angel Ledgers term
+- [x] Add citations to Covenant Economics term
+- [x] Add citations to Divine Council term
+- [x] Add citations to other lexicon terms as needed
+
+### Platform Enhancements
+- [x] Create Key Scholars reference page
+- [x] Add citation rendering support to content display
+- [x] Test footnote display in Module 7
+- [x] Test citation display in Lexicon
+
+### Final Validation
+- [x] Review all integrated citations
+- [ ] Save checkpoint with academic citations
+- [ ] Prepare for publication

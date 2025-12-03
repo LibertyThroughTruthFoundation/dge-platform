@@ -13,7 +13,7 @@ export const module7Content = {
 
 ## The Eternal Why vs. The Seasonal How
 
-One of the most liberating truths in kingdom leadership is this: **the foundation is fixed, but the form is flexible**. The "why" behind what we build is eternal—rooted in covenant, anchored in the Father's character, and aligned with His purposes. But the "how"—the specific methods, structures, and timelines—these are seasonal, adaptive, and subject to the Architect's ongoing revelation.
+One of the most liberating truths in kingdom leadership is this: **the foundation is fixed, but the form is flexible**. The "why" behind what we build is eternal—rooted in covenant, anchored in the Father's character, and aligned with His purposes. But the "how"—the specific methods, structures, and timelines—these are seasonal, adaptive, and subject to the Architect's ongoing revelation.[^1]
 
 This is not compromise. This is wisdom.
 
@@ -21,7 +21,7 @@ This is not compromise. This is wisdom.
 
 King David wanted to build a temple for the Lord. His heart was right, his resources were abundant, and his intent was pure. But God said, "No—not you. Your son will build it."
 
-David could have been crushed. He could have resented the delay. Instead, he did something profound: **he stewarded the vision across generations**. He gathered materials, organized plans, and blessed Solomon's work—even though he would never see the finished temple himself.
+David could have been crushed. He could have resented the delay. Instead, he did something profound: **he stewarded the vision across generations**. He gathered materials, organized plans, and blessed Solomon's work—even though he would never see the finished temple himself.[^2]
 
 David held the vision with open hands. He knew the "why" was eternal (God's dwelling among His people), but the "how" and "when" belonged to the Architect.
 
@@ -33,7 +33,7 @@ This is the posture of a builder who trusts the Father:
 - **You steward the resources**, but you don't dictate the outcomes
 - **You obey the assignment**, but you release the results
 
-When we grip too tightly—when we demand that our vision unfold exactly as we imagined, on our schedule, in our preferred form—we move from faith to control. And control is the opposite of rest.
+When we grip too tightly—when we demand that our vision unfold exactly as we imagined, on our schedule, in our preferred form—we move from faith to control. And control is the opposite of rest.[^3]
 
 ## Bryan's Testimony: From Rigidity to Rest
 
@@ -59,7 +59,17 @@ I'm learning to hold the vision with open hands. To trust that the Architect kno
 
 1. How does David's temple story challenge your understanding of "success" in kingdom work?
 2. Where have you seen the Father redirect your "how" while preserving your "why"?
-3. What would it look like to steward a vision you might never see completed?`,
+3. What would it look like to steward a vision you might never see completed?
+
+---
+
+## Footnotes
+
+[^1]: This principle reflects what theologians call "contextualization"—the recognition that while divine truth is absolute, its faithful application requires wisdom in varying circumstances. See D.A. Carson, *The Gagging of God* (Zondervan, 1996), 537-545; Timothy Keller, *Center Church* (Zondervan, 2012), 17-25.
+
+[^2]: The Davidic temple narrative (2 Samuel 7; 1 Chronicles 22-29) has long been recognized as a paradigm of generational stewardship. David receives vision but not completion; he prepares materials and plans for the next generation. See G.K. Beale, *The Temple and the Church's Mission* (IVP Academic, 2004), 66-80; John Goldingay, *Old Testament Theology*, Vol. 2 (IVP Academic, 2006), 480-495.
+
+[^3]: The tension between human control and divine trust is a perennial theme in Christian spirituality. As Jerry Bridges observes, "The sovereignty of God is the one impregnable rock to which the suffering human heart must cling." See Bridges, *Trusting God* (NavPress, 1988), 18; Dallas Willard, *The Divine Conspiracy* (HarperOne, 1998), 61-75.`,
       tokensEarned: 10,
     },
     {
@@ -70,7 +80,7 @@ I'm learning to hold the vision with open hands. To trust that the Architect kno
 
 ## The Anxiety of Control
 
-Anxiety doesn't come from uncertainty. It comes from the illusion that we're supposed to control outcomes.
+Anxiety doesn't come from uncertainty. It comes from the illusion that we're supposed to control outcomes.[^1]
 
 When we believe that the success of a project depends entirely on our ability to execute perfectly, we've made ourselves the architect. And that's exhausting—because we were never meant to carry that weight.
 
@@ -80,7 +90,7 @@ Rest, on the other hand, is an act of authority. It's the declaration: **"I trus
 
 The Father doesn't ask us to trust that everything will go according to our plan. He asks us to trust that **He is good, He is faithful, and He is sovereign**—even when the plan changes.
 
-This is not passivity. This is active faith.
+This is not passivity. This is active faith.[^2]
 
 - **Passivity says:** "I'll just wait and see what happens."
 - **Active faith says:** "I'll obey the assignment in front of me today, and I'll trust the Architect with tomorrow."
@@ -97,7 +107,7 @@ And when the right housing finally came, it was better than what I had planned. 
 
 ## Rest is Not Laziness
 
-Let's be clear: rest is not the absence of work. Rest is the presence of trust.
+Let's be clear: rest is not the absence of work. Rest is the presence of trust.[^3]
 
 - **Lazy leaders** avoid responsibility and blame circumstances
 - **Resting leaders** take full responsibility for their obedience and release responsibility for outcomes
@@ -120,7 +130,17 @@ You can work hard and rest deeply at the same time. In fact, that's the only sus
 
 1. How do you distinguish between "resting in faith" and "being passive"?
 2. Where have you seen the Father provide in ways you couldn't have orchestrated yourself?
-3. What would change in your leadership if you truly believed rest was an act of authority?`,
+3. What would change in your leadership if you truly believed rest was an act of authority?
+
+---
+
+## Footnotes
+
+[^1]: Brueggemann argues that anxiety is endemic to what he calls "Pharaoh's economy"—a system built on the illusion that human effort alone secures outcomes. Sabbath rest is resistance to this illusion. See Walter Brueggemann, *Sabbath as Resistance* (Westminster John Knox, 2014), 1-28.
+
+[^2]: Biblical rest is never mere inactivity. As Heschel writes, "The Sabbath is not for the sake of the weekdays; the weekdays are for the sake of Sabbath." Rest is the telos of work, requiring active trust. See Abraham Joshua Heschel, *The Sabbath* (FSG, 1951), 14; Marva Dawn, *Keeping the Sabbath Wholly* (Eerdmans, 1989), 45-62.
+
+[^3]: The biblical vision integrates work and rest as complementary rather than competing values. As Keller notes, "We need rest and work both—to honor God with our hands and to honor him with our trust." See Timothy Keller, *Every Good Endeavor* (Penguin, 2012), 229-240.`,
       tokensEarned: 10,
     },
     {
@@ -131,7 +151,7 @@ You can work hard and rest deeply at the same time. In fact, that's the only sus
 
 ## Not an Organization—An Organism
 
-Most kingdom initiatives are built like organizations: hierarchical, mechanical, and compartmentalized. But the Father is building something different: **an organism**—living, adaptive, and interconnected.
+Most kingdom initiatives are built like organizations: hierarchical, mechanical, and compartmentalized. But the Father is building something different: **an organism**—living, adaptive, and interconnected.[^1]
 
 This is the four-part ecosystem that's emerging through the Sovereign Way:
 
@@ -140,7 +160,7 @@ This is the four-part ecosystem that's emerging through the Sovereign Way:
 3. **GodManMarkets** = The **HANDS** (commerce, stewardship, exchange)
 4. **LTT Foundation** = The **IMMUNE SYSTEM** (protection, covering, jurisdiction)
 
-Each part has a distinct function, but they work together as one living body.
+Each part has a distinct function, but they work together as one living body.[^2]
 
 ## NationOS: The Head (Constitutional Vision)
 
@@ -210,7 +230,15 @@ And suddenly, the work became lighter. Because I wasn't building four things—I
 
 1. How does the organism metaphor change the way you think about kingdom work?
 2. Which part of the fourfold ecosystem do you naturally gravitate toward, and why?
-3. Where have you seen these four functions operating (even if not explicitly named)?`,
+3. Where have you seen these four functions operating (even if not explicitly named)?
+
+---
+
+## Footnotes
+
+[^1]: The organism/organization distinction has deep roots in ecclesiology. Howard Snyder argues that "the church is fundamentally an organism, not an organization... a living thing, not a lifeless structure." See Snyder, *The Community of the King* (IVP, 1977), 55-70; Alan Hirsch, *The Forgotten Ways* (Brazos, 2006), 179-200.
+
+[^2]: The Apostle Paul's body metaphor (1 Corinthians 12:12-27) establishes the principle that the church functions as an organism with diverse, interdependent members. Building on this foundation, this framework proposes a four-part structure—Head (vision), Heart (engagement), Hands (commerce), and Immune System (protection)—as a contemporary model for kingdom coordination. While this specific structure is an original application, it reflects the biblical principle of organic unity amid functional diversity. See Edmund Clowney, *The Church* (IVP, 1995), 75-95.`,
       tokensEarned: 10,
     },
     {
@@ -229,7 +257,7 @@ And that's not a bug—it's a feature.
 
 ## Why Pilot Instead of Perfect?
 
-Because **perfection is the enemy of progress**.
+Because **perfection is the enemy of progress**.[^1]
 
 If we wait until everything is "done" before we launch, we'll never launch. We'll endlessly refine, endlessly theorize, and endlessly delay—because there will always be one more feature to add, one more bug to fix, one more detail to perfect.
 
@@ -251,7 +279,7 @@ The DGE is not a thought experiment. It's a living platform where real people en
 - What features are essential vs. nice-to-have?
 - Where do users get stuck or confused?
 
-We couldn't have known these things by theorizing. We had to launch and learn.
+We couldn't have known these things by theorizing. We had to launch and learn.[^2]
 
 ## Bryan's Testimony: From Rigidity to Iteration
 
@@ -269,7 +297,7 @@ Here's the deeper truth: **the permanent is not something you build once and nev
 
 - David didn't build the permanent temple—but he stewarded the vision that led to it
 - The early church didn't have a "finished" theology—they piloted, learned, and refined through councils and letters
-- The kingdom itself is "already but not yet"—permanent in its foundation, unfolding in its form
+- The kingdom itself is "already but not yet"—permanent in its foundation, unfolding in its form[^3]
 
 Piloting is not a compromise. It's the way the kingdom builds.
 
@@ -289,7 +317,17 @@ Piloting is not a compromise. It's the way the kingdom builds.
 
 1. How does the concept of "piloting the permanent" challenge your understanding of faithfulness?
 2. Where have you seen the Father refine something through iteration rather than perfection?
-3. What would it look like to launch something incomplete and trust the process?`,
+3. What would it look like to launch something incomplete and trust the process?
+
+---
+
+## Footnotes
+
+[^1]: The biblical pattern of faith acting before complete understanding is exemplified in Abraham's journey: "By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going" (Hebrews 11:8). Obedience often precedes understanding. See Dallas Willard, *Hearing God* (IVP, 1999), 145-160.
+
+[^2]: Following Abraham's example of going out "not knowing where he was going" (Hebrews 11:8), this project embraces what we call "piloting the permanent"—faithful action amid incomplete knowledge. This reflects the biblical principle that God often reveals His will progressively, requiring us to take steps of obedience before we see the full picture.
+
+[^3]: The "already but not yet" framework is central to New Testament eschatology. The kingdom has been inaugurated in Christ but awaits final consummation. This tension between present reality and future hope shapes all Christian life and work. See George Eldon Ladd, *The Presence of the Future* (Eerdmans, 1974), 218-234; N.T. Wright, *Surprised by Hope* (HarperOne, 2008), 18-27.`,
       tokensEarned: 10,
     },
   ],

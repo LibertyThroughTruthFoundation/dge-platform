@@ -10,6 +10,7 @@ import BibleReader from "./pages/BibleReader";
 import Module7 from "./pages/Module7";
 import Module7SubModule from "./pages/Module7SubModule";
 import Lexicon from "./pages/Lexicon";
+import Scholars from "./pages/Scholars";
 
 function Router() {
   return (
@@ -20,6 +21,7 @@ function Router() {
       <Route path="/module/7" component={Module7} />
       <Route path="/module/7/:subModuleId" component={Module7SubModule} />
       <Route path="/lexicon" component={Lexicon} />
+      <Route path="/scholars" component={Scholars} />
       <Route path="/404" component={NotFound} />
       <Route component={NotFound} />
     </Switch>

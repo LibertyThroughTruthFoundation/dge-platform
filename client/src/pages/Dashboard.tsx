@@ -114,6 +114,28 @@ export default function Dashboard() {
               </div>
             </Card>
           </Link>
+
+          {/* Key Scholars */}
+          <Link href="/scholars">
+            <Card className="p-6 hover:shadow-lg transition-all cursor-pointer group h-full">
+              <div className="flex items-start gap-4">
+                <div className="p-3 bg-amber-100 dark:bg-amber-900/30 rounded-lg group-hover:bg-amber-200 dark:group-hover:bg-amber-900/50 transition-colors">
+                  <GraduationCap className="w-8 h-8 text-amber-600 dark:text-amber-400" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-xl font-semibold mb-2 group-hover:text-primary transition-colors">
+                    Key Scholars
+                  </h3>
+                  <p className="text-muted-foreground mb-3">
+                    Academic foundation and scholarly sources
+                  </p>
+                  <p className="text-sm text-amber-600 dark:text-amber-400 font-medium">
+                    View scholars →
+                  </p>
+                </div>
+              </div>
+            </Card>
+          </Link>
         </div>
 
         {/* Recent Activity */}

@@ -123,13 +123,9 @@ export const appRouter = router({
   // Lexicon
   lexicon: router({
     getAllTerms: protectedProcedure.query(async () => {
-      let terms = await db.getAllLexiconTerms();
-      
-      // Seed if empty
-      if (terms.length === 0) {
-        await db.seedLexiconTerms(lexiconTermsData);
-        terms = await db.getAllLexiconTerms();
-      }
+      // Always reseed to pick up definition updates
+      await db.seedLexiconTerms(lexiconTermsData);
+      const terms = await db.getAllLexiconTerms();
       
       return terms;
     }),
