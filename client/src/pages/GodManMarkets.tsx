@@ -54,8 +54,11 @@ export default function GodManMarkets() {
               <p className="text-muted-foreground mb-4">
                 GodManMarkets is being built organically, starting with the books cited in the DGE platform. Below is the initial catalog—products will be available for purchase soon.
               </p>
+              <p className="text-muted-foreground mb-4">
+                <strong className="text-base">The Exodus is beginning.</strong> If you're a farmer, book dealer, software developer, or artisan—you can bring your economic life into alignment. Start your storefront here. Move your business out of Babylon's system and into the Kingdom economy.
+              </p>
               <p className="text-sm text-muted-foreground">
-                Want to suggest a resource? Email us at <strong>resources@godmanmarkets.com</strong> (coming soon)
+                Want to list your products or services? Email us at <strong>vendors@godmanmarkets.com</strong> (coming soon)
               </p>
             </div>
           </div>

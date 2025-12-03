@@ -31,7 +31,8 @@ export default function Home() {
             Divine Gospel Economy
           </h1>
           <p className="text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            Discover covenant economics through ancient wisdom and earn tokens as you learn
+            Discover covenant economics through ancient wisdom and earn tokens as you learn.
+            <span className="block mt-4 text-lg italic opacity-80">The call is going out: Come out of Babylon and build in the Kingdom.</span>
           </p>
           <Button size="lg" asChild className="text-lg px-8 py-6">
             <a href={getLoginUrl()}>

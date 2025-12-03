@@ -31,7 +31,10 @@ export default function Module7() {
         <div className="mb-12 text-center">
           <h1 className="text-5xl font-bold mb-4">{module.title}</h1>
           <p className="text-xl text-muted-foreground mb-2">{module.subtitle}</p>
-          <p className="text-lg text-muted-foreground max-w-3xl mx-auto">{module.description}</p>
+          <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
+            {module.description}
+            <span className="block mt-3 text-base italic opacity-75">This is not just theology—this is preparation for the Exodus.</span>
+          </p>
         </div>
 
         {/* Sub-modules grid */}

@@ -100,6 +100,25 @@
 - [x] Create simple product listing structure
 
 ### Final Steps
-- [ ] Save final checkpoint before publication
+- [x] Save final checkpoint before publication
 - [ ] Guide Bryan to Publish button in UI
 - [ ] Confirm platform is live
+
+## Exodus Messaging Integration (The Digital Shema)
+
+### Core Message: "Come out, come out, don't look back"
+- [x] Add spiritual summons to Home page (subtle, compelling)
+- [x] Add Exodus reminders to Dashboard (why they're investing time here)
+- [x] Enhance GodManMarkets with covenant commerce call (bring your business)
+- [x] Weave Exodus framing into Module 7 content
+- [x] Ensure messaging is present but never overwhelming
+
+### The Three-Phase Vision
+- DGE = The revelation that compels them to leave Babylon
+- GodManMarkets = The pathway that enables them to leave
+- NationOS = The constitution for their new home
+
+### Final Deployment
+- [ ] Push Exodus messaging updates to GitHub
+- [ ] Create final checkpoint
+- [ ] Guide Bryan for re-deployment at home

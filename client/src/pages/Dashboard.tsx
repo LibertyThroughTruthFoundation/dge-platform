@@ -26,7 +26,8 @@ export default function Dashboard() {
         <div className="mb-12">
           <h1 className="text-4xl font-bold mb-2">Welcome back, {user.name || "Seeker"}!</h1>
           <p className="text-lg text-muted-foreground">
-            Continue your journey through the Divine Gospel Economy
+            Continue your journey through the Divine Gospel Economy.
+            <span className="block mt-2 text-sm italic opacity-75">You're not just learning—you're preparing to leave Babylon and build in the Kingdom.</span>
           </p>
         </div>
 
