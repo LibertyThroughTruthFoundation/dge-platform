@@ -12,6 +12,7 @@ import Module7SubModule from "./pages/Module7SubModule";
 import Lexicon from "./pages/Lexicon";
 import Scholars from "./pages/Scholars";
 import GodManMarkets from "./pages/GodManMarkets";
+import StablesHero from "./pages/StablesHero";
 
 function Router() {
   return (
@@ -24,6 +25,7 @@ function Router() {
       <Route path="/lexicon" component={Lexicon} />
       <Route path="/scholars" component={Scholars} />
       <Route path="/godmanmarkets" component={GodManMarkets} />
+      <Route path="/stableshero" component={StablesHero} />
       <Route path="/404" component={NotFound} />
       <Route component={NotFound} />
     </Switch>

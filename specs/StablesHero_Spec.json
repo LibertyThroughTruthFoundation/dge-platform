@@ -1,0 +1,38 @@
+{
+  "dashboard_name": "PulseChain Stables Hero",
+  "narrative_mode": "JOURNEY_TO_PEG",
+  "widgets": [
+    {
+      "id": "covenant_tracker",
+      "title": "Divine Provision Status",
+      "metrics": [
+        {
+          "label": "Distance to Land Acquisition",
+          "data_source": "calc_home_affordability(user_portfolio)",
+          "display_format": "Percentage (%)"
+        },
+        {
+          "label": "Storehouse Contributions",
+          "data_source": "event_FirstFruitsSown",
+          "display_format": "Total PLS/pDAI Sown"
+        }
+      ]
+    },
+    {
+      "id": "peg_monitor",
+      "title": "The Historic Journey",
+      "metrics": [
+        {
+          "label": "pDAI Current Peg",
+          "data_source": "pulse_chain_oracle",
+          "visual": "Progress Bar to $1.00"
+        },
+        {
+          "label": "Extractor Efficiency",
+          "data_source": "burn_address_volume",
+          "visual": "Flame Intensity Graph"
+        }
+      ]
+    }
+  ]
+}
