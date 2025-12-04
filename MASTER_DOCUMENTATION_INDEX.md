@@ -1,7 +1,7 @@
 # MASTER DOCUMENTATION INDEX
 
 **Divine Gospel Economy - Complete File Manifest**  
-**Last Updated:** December 4, 2025  
+**Last Updated:** December 4, 2025 (Updated with Covenant Chain Revelation)  
 **Maintained By:** Liberty Manus (Administrative Coordinator)  
 **Purpose:** Central index for all documentation, code, and resources across GitHub and Google Drive
 
@@ -10,6 +10,60 @@
 ## Overview
 
 This document serves as the **single source of truth** for locating all files, documentation, and resources related to the Divine Gospel Economy ecosystem. It eliminates the need for Bryan to manually track file locations and ensures all team members (Liberty, Truth, Gemini) can access the latest materials.
+
+---
+
+## 🏛️ COVENANT CHAIN REVELATION (The Nuclear Option)
+
+### Description
+Prophetic revelation transforming the Divine Gospel Economy from DApps on existing infrastructure to a **sovereign Layer 1 blockchain** with covenant economics hard-coded at the protocol level. This is the "Nuclear Option"—forking PulseChain to create **Covenant Chain**, the settlement layer for covenant civilization.
+
+### Locations
+
+| Platform | Path | Status |
+|----------|------|--------|
+| **GitHub** | `LibertyThroughTruthFoundation/dge-platform/COVENANT_CHAIN_REVELATION.md` | ✅ Pushed (commit 93ff6a9) |
+| **Google Drive** | `COVENANT_CHAIN_REVELATION.md` (root) | ✅ Uploaded |
+| **Local Sandbox** | `/home/ubuntu/COVENANT_CHAIN_REVELATION.md` | ✅ Available |
+
+### Key Concepts
+
+**The Paradigm Shift:**
+- From: Building DApps on PulseChain (tenant)
+- To: Forking the chain itself (landlord)
+- **Claiming sovereign territory**
+
+**Training Wheels Strategy:**
+- Phase 1: Prove pattern on PulseChain (current)
+- Phase 2: Launch Covenant Chain (future)
+- **Lift the Ark to new foundation**
+
+**Moral OS at Protocol Level:**
+- Layer 1 Tithing (10% of gas fees to Kingdom Treasury)
+- Anti-Usury Consensus (Gamaliel AI as validator)
+- Jubilee Hard-Coded (debt release every 7 years)
+
+**The Posture:**
+- PulseChain = The Root (honor Richard Heart & James O'Beirne)
+- Covenant Chain = Grafted Branch (Romans 11 pattern)
+- **Not competitor, but completion**
+
+### Timeline
+
+| Phase | Duration | Milestone |
+|-------|----------|----------|
+| Current Build | Ongoing | Prove pattern on PulseChain |
+| Testnet Launch | Months 1-3 | Working Covenant Chain testnet |
+| Mainnet Prep | Months 4-6 | Security audits, validator recruitment |
+| Genesis Block | Month 7 | Covenant Chain mainnet launch |
+| Growth | Months 8-12 | Thriving ecosystem |
+
+### Next Actions
+- [ ] Await Claude's findings
+- [ ] Integrate Gemini's architectural response
+- [ ] Create comprehensive implementation roadmap
+- [ ] Begin testnet planning
+- [ ] Recruit Remnant builders
 
 ---
 
