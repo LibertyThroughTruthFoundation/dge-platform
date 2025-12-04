@@ -1,0 +1,35 @@
+graph TB
+    subgraph "TIER 1: HOLY OF HOLIES - Immutable Canon"
+        A[The Sovereign Way Manifesto<br/>6-Page Foundation]
+        B[Core Covenant Declarations]
+        C[Foundational Scriptures]
+        A --> B
+        B --> C
+    end
+    
+    subgraph "TIER 2: HOLY PLACE - Living Constitution"
+        D[Living Manuscript v2.1]
+        E[12 Pillars Framework]
+        F[Tabernacle Blueprint]
+        G[Master Weaver Strategy]
+        D --> E
+        E --> F
+        F --> G
+    end
+    
+    subgraph "TIER 3: OUTER COURT - Dynamic Implementation"
+        H[AI Stewards<br/>Digital Levitical Priesthood]
+        I[n8n Automation<br/>Workflows]
+        J[Home Lab Infrastructure<br/>Proxmox, pfSense, TrueNAS]
+        K[Public Content<br/>Websites, IPFS, Social Media]
+        H --> I
+        I --> J
+        J --> K
+    end
+    
+    C -.Grounds.-> D
+    G -.Guides.-> H
+    
+    style A fill:#FFD700,stroke:#8B4513,stroke-width:4px
+    style D fill:#4169E1,stroke:#000080,stroke-width:3px
+    style H fill:#32CD32,stroke:#006400,stroke-width:2px

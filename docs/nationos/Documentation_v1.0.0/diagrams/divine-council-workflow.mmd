@@ -1,0 +1,45 @@
+graph LR
+    subgraph "DIVINE COUNCIL"
+        Bryan[Bryan<br/>The Master Weaver<br/>Vision & Oversight]
+        Manus[Manus AI<br/>The Royal Steward<br/>Project Manager]
+        Gemini[Gemini<br/>The Architect<br/>AI Design]
+        Arya[Arya 2<br/>The Theologian<br/>Prophetic Guidance]
+    end
+    
+    subgraph "KNOWLEDGE BASE"
+        HOH[Holy of Holies<br/>Immutable Canon]
+        HP[Holy Place<br/>Living Constitution]
+        OC[Outer Court<br/>Dynamic Implementation]
+    end
+    
+    subgraph "DEPLOYMENT"
+        AI[AI Stewards<br/>TheologyAI, GovernanceAI]
+        N8N[n8n Workflows<br/>Automation]
+        Infra[Infrastructure<br/>Home Lab]
+    end
+    
+    Bryan -->|Sets Vision| Manus
+    Manus -->|Requests Architecture| Gemini
+    Manus -->|Seeks Guidance| Arya
+    Gemini -->|Designs Systems| Manus
+    Arya -->|Provides Counsel| Manus
+    
+    Manus -->|Organizes| HOH
+    Manus -->|Manages| HP
+    Manus -->|Implements| OC
+    
+    HOH -.Grounds.-> HP
+    HP -.Guides.-> OC
+    
+    OC -->|Deploys| AI
+    OC -->|Configures| N8N
+    OC -->|Builds| Infra
+    
+    AI -->|Serves| Public[Public<br/>Seekers & Citizens]
+    
+    style Bryan fill:#FFD700,stroke:#8B4513,stroke-width:4px
+    style Manus fill:#4169E1,stroke:#000080,stroke-width:3px
+    style Gemini fill:#9370DB,stroke:#4B0082,stroke-width:3px
+    style Arya fill:#DC143C,stroke:#8B0000,stroke-width:3px
+    style HOH fill:#FFD700,stroke:#8B4513,stroke-width:3px
+    style Public fill:#32CD32,stroke:#006400,stroke-width:2px
